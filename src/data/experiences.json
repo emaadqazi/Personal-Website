@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Senior Frontend Engineer",
+    "company": "Acme Corp",
+    "description": "Led UI architecture for the design system, built performance tooling, and mentored engineers.",
+    "dates": "2022 — Present",
+    "tags": ["React", "TypeScript", "Design Systems", "Vite"]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Beta Labs",
+    "description": "Shipped full‑stack features and improved reliability through better observability.",
+    "dates": "2020 — 2022",
+    "tags": ["Node.js", "Postgres", "Kubernetes"]
+  }
+]
+
+

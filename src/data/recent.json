@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Minimal Portfolio Template",
+    "summary": "A clean, modern portfolio starter with Tailwind and Vite.",
+    "date": "2025-08-01",
+    "tags": ["Open Source", "Template"],
+    "url": "https://github.com/yourhandle/portfolio-starter"
+  },
+  {
+    "title": "Blog: The Case for Radical Simplicity",
+    "summary": "Why removing complexity often delivers more value than adding features.",
+    "date": "2025-07-15",
+    "tags": ["Essay", "Simplicity"],
+    "url": "https://yourblog.com/radical-simplicity"
+  }
+]
+
+
